@@ -1,9 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Aayush, but you can call me Rishi:exclamation:
 
-<!--
-**SpideR1sh1/SpideR1sh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student @ Purdue University double majoring in Mathematics & First-Year Engineering. Currently working with Data Science, Computer Vision, Computational Mathematics and Statistics.
 
-Here are some ideas to get you started:
+Aspiring Entrepreneur, Quantitative Trader and Software Engineer.
+
+**Links:**
+- Email
+- Linkedin
+- Resume
+- Website
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

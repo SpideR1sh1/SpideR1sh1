@@ -4,7 +4,7 @@ I am a student @ Purdue University double majoring in Mathematics & Electrical a
 
 Aspiring Entrepreneur, Quantitative Trader and Software Engineer.
 
-Incoming Quantitative Trader 2023
+Incoming Quantitative Trader 2023 (manifesting)
 
 
 - 🔭 I’m currently working on an Orderbook and Exchange. Also trying to perfect my Stock Trader Bot.

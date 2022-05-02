@@ -3,6 +3,7 @@
 I am a student @ Purdue University double majoring in Mathematics & Electrical and Computer Engineering. Currently working with Data Science, Computer Vision, Computational Mathematics and Statistics.
 
 Aspiring Entrepreneur, Quantitative Trader and Software Engineer.
+Incoming Quantitative Trader 2023
 
 
 - 🔭 I’m currently working on an Orderbook and Exchange. Also trying to perfect my Stock Trader Bot.

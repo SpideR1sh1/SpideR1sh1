@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Aayush, but you can call me Rishi:exclamation:
 
-I am a student @ Purdue University double majoring in Mathematics & Electrical and Computer Engineering. Currently working with Data Science, Computer Vision, Computational Mathematics and Statistics.
+I am a student @ Purdue University double majoring in Mathematics & Computer Science. Currently working with Computer Vision, Quantitative Finance, Volatility Theory, and Artificial General Intelligence.
 
 Aspiring Entrepreneur, Quantitative Trader and Software Engineer.
 
@@ -12,8 +12,7 @@ Incoming Quantitative Trader 2023 (manifesting)
 - 📫 How to reach me: ...
   - Email: aayush.gh02@gmail.com
   - Linkedin: www.linkedin.com/in/spiderishi/
-  - Resume:
-  - Website:
+  - Website: incoming
 
 <!-- Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...

@@ -15,7 +15,7 @@ Incoming Quantitative Trader 2023 (manifesting)
   - Website: incoming
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpideR1sh1&layout=compact)](https://github.com/SpideR1sh1/github-readme-stats)
-![text](https://github.com/SpideR1sh1/)
+![text](https://github.com/SpideR1sh1/SpideR1sh1/blob/main/mario.gif?raw=true)
 
 <!-- Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...

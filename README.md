@@ -14,6 +14,8 @@ Incoming Quantitative Trader 2023 (manifesting)
   - Linkedin: www.linkedin.com/in/spiderishi/
   - Website: incoming
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/SpideR1sh1/github-readme-stats)
+
 <!-- Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -21,4 +23,4 @@ Incoming Quantitative Trader 2023 (manifesting)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/SpideR1sh1/)
+

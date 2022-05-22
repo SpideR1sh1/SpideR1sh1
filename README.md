@@ -7,7 +7,7 @@ Aspiring Entrepreneur, Quantitative Trader and Software Engineer.
 Incoming Quantitative Trader 2023 (manifesting)
 
 
-- 🔭 I’m currently working on an Orderbook and Exchange. Also trying to perfect my Stock Trader Bot.
+- 🔭 I’m currently working on perfecting my Stock Trader Bot, creating a stock app, an expense tracker for myself, and whatever else comes to mind.
 - 🌱 I’m currently learning Andrew Ng's Machine Learning Course, Real Analysis, Probability Theory, Game Theory & Logic.
 - 📫 How to reach me: ...
   - Email: aayush.gh02@gmail.com

@@ -14,7 +14,7 @@ Incoming Quantitative Trader 2023 (manifesting)
   - Linkedin: www.linkedin.com/in/spiderishi/
   - Website: incoming
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpideR1sh1&layout=compact&theme=material-palenight)](https://github.com/SpideR1sh1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpideR1sh1&layout=compact&theme=material-palenight&cache_seconds=1800)]]
 ![text](https://github.com/SpideR1sh1/SpideR1sh1/blob/main/mario.gif?raw=true)
 
 <!-- Here are some ideas to get you started:

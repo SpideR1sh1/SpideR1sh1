@@ -22,6 +22,6 @@ Incoming Quantitative Trader 2023 (manifesting)
 - 💬 Ask me about ...
 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... --> 
 
 

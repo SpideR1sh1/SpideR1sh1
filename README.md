@@ -4,9 +4,6 @@ I am a student @ Purdue University double majoring in Computer Science and Mathe
 
 Aspiring Entrepreneur, Quantitative Trader and Software Engineer.
 
-Incoming Quantitative Trader 2023 (manifesting)
-
-
 - 🔭 I’m currently working on perfecting my Stock Trader Bot, creating a stock app, an expense tracker for myself, and whatever else comes to mind.
 - 🌱 I’m currently learning Andrew Ng's Machine Learning Course, Real Analysis, Probability Theory, Game Theory & Logic.
 - 📫 How to reach me: ...
@@ -14,7 +11,7 @@ Incoming Quantitative Trader 2023 (manifesting)
   - Linkedin: www.linkedin.com/in/spiderishi/
   - Website: incoming
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpideR1sh1&layout=compact&theme=material-palenight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpideR1sh1&layout=compact&theme=material-palenight&cache_seconds=1800)
 
 
 ## 🔧 Technologies & Tools 

@@ -1,11 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I'm Aayush, but you can call me Rishi:exclamation:
 
-I am a student @ Purdue University double majoring in Computer Science and Mathematics. Currently working with Computer Vision, Quantitative Finance, Volatility Theory, and Artificial General Intelligence. 
+I am a student @ Purdue University double majoring in Computer Science and Mathematics. Currently working with Computer Vision, Quantitative Finance, Volatility Theory, and Artificial Intelligence. 
 
 Aspiring Entrepreneur, Quantitative Trader and Software Engineer.
 
 - 🔭 I’m currently working on perfecting my Stock Trader Bot, creating a stock app, an expense tracker for myself, and whatever else comes to mind.
-- 🌱 I’m currently learning Andrew Ng's Machine Learning Course, Real Analysis, Probability Theory, Game Theory & Logic.
+- 🌱 I’m currently learning Swarm Intelligence, Group Theory (Rings & Fields), Reinforcement Q-Learning and Probability.
 - 📫 How to reach me: ...
   - Email: aayush.gh02@gmail.com
   - Linkedin: www.linkedin.com/in/spiderishi/

@@ -40,6 +40,6 @@ Aspiring Entrepreneur, Quantitative Trader and Software Engineer.
 - 💬 Ask me about ...
 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... --> 
+- ⚡ Fun fact: ... -->  
 
 

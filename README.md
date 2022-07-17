@@ -11,8 +11,8 @@ Aspiring Entrepreneur, Quantitative Trader and Software Engineer.
   - Linkedin: www.linkedin.com/in/spiderishi
   - Website: incoming
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpideR1sh1&layout=compact&theme=material-palenight&cache_seconds=1800)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpideR1sh1theme=material-palenight&cache_seconds=1800)
+&
 
 ## 🔧 Technologies & Tools 
 <!-- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) -->

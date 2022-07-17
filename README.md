@@ -11,8 +11,8 @@ Aspiring Entrepreneur, Quantitative Trader and Software Engineer.
   - Linkedin: www.linkedin.com/in/spiderishi
   - Website: incoming
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpideR1sh1theme=material-palenight&cache_seconds=1800)
-&
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpideR1sh1&langs_count=10&theme=material-palenight&cache_seconds=1800)
+
 
 ## 🔧 Technologies & Tools 
 <!-- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) -->
@@ -24,7 +24,7 @@ Aspiring Entrepreneur, Quantitative Trader and Software Engineer.
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-![text](https://github.com/SpideR1sh1/SpideR1sh1/blob/main/mario.gif?raw=true)
+
 <!-- ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a) -->
 
 <!-- ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a) -->

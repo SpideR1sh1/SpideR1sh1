@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I'm Aayush, but you can call me Rishi:exclamation:
 
-I am a student @ Purdue University double majoring in Computer Science and Mathematics. Currently working with Computer Vision, Quantitative Finance, Volatility Theory, and Artificial Intelligence. 
+I am a student @ Purdue University double majoring in Computer Science and Mathematics. Currently working with Computer Vision, Quantitative Finance, Quantum Physics, Quantum Computing and Artificial Intelligence.  
 
 Aspiring Entrepreneur, Quantitative Trader and Software Engineer.
 

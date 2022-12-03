@@ -1,5 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I'm Aayush, but you can call me Rishi:exclamation:
 
+Incoming Quantitative Trader Intern at Jane Street Summer 2023.
+
 I am a student @ Purdue University double majoring in Computer Science and Mathematics. Currently working with Computer Vision, Quantitative Finance, Quantum Physics, Quantum Computing and Artificial Intelligence.  
 
 Aspiring Entrepreneur, Quantitative Trader and Software Engineer.

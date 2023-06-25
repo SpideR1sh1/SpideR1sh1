@@ -1,12 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I'm Aayush, but you can call me Rishi:exclamation:
 
 
-I am a student @ Purdue University double majoring in Computer Science and Mathematics. Currently working with Computer Vision, Quantitative Finance, Quantum Physics, Quantum Computing and Artificial Intelligence.  
+I am a student @ Purdue University, double majoring in Computer Science and Mathematics. Currently working with or learning Quantitative Finance, Quantum Physics, Quantum Computing, and Artificial Intelligence.  
 
-Aspiring Entrepreneur, Quantitative Trader and Software Engineer.
+Entrepreneur, Quantitative Trader, and Software Engineer.
 
-- 🔭 I’m currently working on perfecting my Stock Trader Bot, creating a basic Rust Operating System, an expense tracker for myself, and whatever else comes to mind.
-- 🌱 I’m currently learning Swarm Intelligence, Group Theory (Rings & Fields), Reinforcement Q-Learning and Probability.
+- 🔭 I’m making an NES emulator, game-jam games, a Lite model of CERN's Particle Collider simulator, and whatever else comes to mind.
+- 🌱 I’m currently learning Measure Theory, Group Theory (Rings & Fields), Reinforcement Q-Learning and Probability.
 - 📫 How to reach me: ...
   - Email: aayush.gh02@gmail.com
   - Linkedin: www.linkedin.com/in/spiderishi

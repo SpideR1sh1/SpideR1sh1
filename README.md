@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I'm Aayush, but you can call me Rishi:exclamation:
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I'm Aayush, but you can call me Rishi
 
 
 I am a student @ Purdue University, double majoring in Computer Science and Mathematics. Currently working with or learning Quantitative Finance, Quantum Physics, Quantum Computing, and Artificial Intelligence.  

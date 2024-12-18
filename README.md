@@ -5,8 +5,8 @@ I am a student @ Purdue University, double majoring in Computer Science and Math
 
 Entrepreneur, Quantitative Trader, and Software Engineer.
 
-- 🔭 I’m making an NES emulator, game-jam games, a Lite model of CERN's Particle Collider simulator, and whatever else comes to mind.
-- 🌱 I’m currently learning Measure Theory, Group Theory (Rings & Fields), Reinforcement Q-Learning and Probability.
+- 🔭 I’m making a/an Nothing
+- 🌱 I’m currently learning Computational Geometry, Compilers and Optics.
 - 📫 How to reach me: ...
   - Email: aayush.gh02@gmail.com
   - Linkedin: www.linkedin.com/in/spiderishi

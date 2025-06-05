@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I'm Aayush, but you can call me Rishi
 
 
-I am a student @ Purdue University, double majoring in Computer Science. Currently working with or learning Quantitative Finance, Quantum Physics, Quantum Computing, and Artificial Intelligence.  
+I am a student @ Purdue University, majoring in Computer Science. Currently working with or learning Quantitative Finance, Quantum Physics, Quantum Computing, and Artificial Intelligence.  
 
 Entrepreneur, Quantitative Trader, and Software Engineer.
 
